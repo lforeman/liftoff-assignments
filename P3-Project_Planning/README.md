@@ -7,7 +7,7 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-- 4 wireframes on one page: liftoff-assignments/wireframing.jpg
+- 4 wireframes on one page: https://github.com/lforeman/liftoff-assignments/blob/master/wireframing.jpg
 
 
 ### Project Tracker
