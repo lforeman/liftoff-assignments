@@ -7,10 +7,10 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
 
 ### GitHub
-Provide a link to your GitHub account here.
+https://github.com/lforeman
 
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+https://www.linkedin.com/in/lisa-foreman-228b8147/
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo.
+https://github.com/lforeman/liftoff-assignments/blob/master/Lisa_Foreman_Resume_2018.pdf
